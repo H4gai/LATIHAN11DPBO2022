@@ -4,7 +4,7 @@
 
 table member
 1. home
-https://user-images.githubusercontent.com/90954012/167172209-a9506e86-a27d-4353-b0e8-b1c9d9f5f312.png
+<img width="490" alt="apart" src="https://user-images.githubusercontent.com/90954012/167172209-a9506e86-a27d-4353-b0e8-b1c9d9f5f312.png">
 2. add
 
 3. update
